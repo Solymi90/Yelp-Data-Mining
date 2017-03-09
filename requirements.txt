@@ -1,7 +1,13 @@
-plyr
-sp
-devtools
-ggplot2
-wordcloud
-sentiment
-googleVis
+R libraries:
+  plyr
+  sp
+  devtools
+  ggplot2
+  wordcloud
+  sentiment
+  googleVis
+
+Python libraries:
+  json
+  pandas
+  glob
