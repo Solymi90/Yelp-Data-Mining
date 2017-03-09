@@ -1,0 +1,3 @@
+The Yelp Academic Dataset can be downloaded via the following link in JSON format: https://www.yelp.com/dataset_challenge 
+
+Note: Yelp is changing/updating the datasets due to their dataset challange rounds.
